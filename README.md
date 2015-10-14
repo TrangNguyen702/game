@@ -1,4 +1,6 @@
+
 #gamer
+>>>>>>> master
 
 ##About
 FIXME: write
