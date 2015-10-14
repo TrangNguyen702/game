@@ -1,4 +1,4 @@
-#game
+#gamer
 
 ##About
 FIXME: write
