@@ -1,4 +1,6 @@
-#game cua test
+
+#gamer
+>>>>>>> master
 
 ##About
 FIXME: write
